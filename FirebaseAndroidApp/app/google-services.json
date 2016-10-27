@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1010246161081",
+    "firebase_url": "https://michishio-ryuuji.firebaseio.com",
+    "project_id": "michishio-ryuuji",
+    "storage_bucket": "michishio-ryuuji.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010246161081:android:add218ceb77d7701",
+        "android_client_info": {
+          "package_name": "org.jast.firebaseandroidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010246161081-iqnfo7vqd9t905q3if62h2egshl6rae9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm83R3nfk1bJJQ0rg-Zx3c-DirklZRuhM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
